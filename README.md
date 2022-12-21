@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softwarerat" alt="softwarerat" /></a> </p>
 
-- 🔭 I’m currently working on [UltimateGamingScript](https://github.com/SoftwareRat/UltimateGamingScript)
+- 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **C++ and Python**
 
