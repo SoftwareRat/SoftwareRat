@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **PowerShell and C#**
 
-- 📫 How to reach me **jaguar5018@gmail.com**
-
 - ⚡ Fun fact **The majority of your brain is fat.**
 
 <h3 align="left">Connect with me:</h3>
